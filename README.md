@@ -9,7 +9,7 @@ About Me
 <br/>
 
 <div align = "center">
-  <img src="5YPk.gif" width = 500>
+  <img src="5YPk.gif" width = 100>
 </div>
 
 <br/>
