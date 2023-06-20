@@ -20,7 +20,10 @@
 </p>
 <h1></h1>
 
-<h1>Contact Me | <img src="" width=50></h1>
+<h1>Contact Me | <img src="gantung.gif" width=50></h1>
+<p>
+  <a href="https://linktr.ee/qhofzn"><img src="link.svg" width="30px"><br/>Link Tree</a>
+</p>
 
 <br/>
 <br/>
