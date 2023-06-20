@@ -8,20 +8,21 @@ About Me
 <br/>
 <br/>
 
-<p align="center"> 
+<div align = "center">
+  <img src="5YPk.gif" width = 500>
+</div>
+
+<br/>
+<br/>
+
+<div align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ZanZan17/count.svg" />
-</p>
+</div>
 <a href=#><img src="contribution.svg"></a>
 <br/>
 <br/>
 
 <div align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ZanZan17&theme=dark&hide_border=true" width = 400>
-</div>
-
-<div align = "center">
-<a></a>
-  <br></br>
-  <img src="5YPk.gif" widht = 500>
 </div>
