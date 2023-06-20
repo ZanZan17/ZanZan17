@@ -1,7 +1,6 @@
 # Zan
-About Me
 <div align="center">
-  <h1>Hello Guys!, I'm <a href='https://www.instagram.com/qhof.zn/'>Fauzhan Qhof Pratama</a><img src="cat.gif" width="50px" height="50px"><br/>~ Ui/Ux Designer & Poster Design ~</h1>
+  <h1><img src="cat.gif" width="50px" height="50px">Hello Guys!, I'm <a href='https://www.instagram.com/qhof.zn/'>Fauzhan Qhof Pratama</a><img src="cat.gif" width="50px" height="50px"><br/>~ Ui/Ux Designer & Poster Design ~</h1>
   <h3>🏠 Kab.Bekasi - Jawa Barat, Indonesia</h3>
 </div>
 
@@ -27,6 +26,7 @@ About Me
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ZanZan17&theme=dark&hide_border=true" width = 400>
 </div>
 
+<h1>My Tool</h1>
 <p>
-  <img src="
+  <img src="figma.svg" width="40"><img ssrc="
 </p>
