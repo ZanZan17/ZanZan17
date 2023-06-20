@@ -19,3 +19,11 @@ About Me
 <div align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ZanZan17&theme=dark&hide_border=true" width = 400>
 </div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ZanZan17/count.svg" />
+</p>
+<a href=#><img src="Suzume.jpeg"></a>
+<br/>
+<br/>
