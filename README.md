@@ -12,7 +12,7 @@ About Me
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ZanZan17/count.svg" />
 </p>
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="contribution.svg"></a>
 <br/>
 <br/>
 
