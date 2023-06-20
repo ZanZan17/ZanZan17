@@ -14,6 +14,15 @@
 <br/>
 <br/>
 
+<h1>My Tool</h1>
+<p>
+  <img src="figma.svg" width="40"><img src="canva.svg" width="40"><img src="ae.svg" width="40"><img src="ps.svg" width="40"><img src="axd.svg" width="40">
+</p>
+<h1></h1>
+
+<br/>
+<br/>
+
 <div align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ZanZan17/count.svg" />
@@ -25,8 +34,3 @@
 <div align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ZanZan17&theme=dark&hide_border=true" width = 400>
 </div>
-
-<h1>My Tool</h1>
-<p>
-  <img src="figma.svg" width="40"><img ssrc="
-</p>
