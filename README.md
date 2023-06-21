@@ -14,7 +14,7 @@
 <br/>
 <br/>
     
-<h1>My Tool | <img src="ya.gif" width=50></h1>
+<h1>My Tool | <img src="ya1.gif" width=50></h1>
 <p>
   <img src="figma.svg" width="40"><img src="canva.svg" width="40"><img src="ae.svg" width="40"><img src="ps.svg" width="40"><img src="axd.svg" width="40">
 </p>
