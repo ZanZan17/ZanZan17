@@ -8,20 +8,20 @@
 <br/>
 
 <div align = "center">
-  <img src="5YPk.gif" width = 120>
+  <img src="mik.gif" width = 500>
 </div>
 
 <br/>
 <br/>
 
 <h1></h1>
-<h1>My Tool | <img src="ya1.gif" width=50></h1>
+<h1>My Tools | <img src="ya1.gif" width=50></h1>
 <p>
   <img src="figma.svg" width="40"><img src="canva.svg" width="40"><img src="ae.svg" width="40"><img src="ps.svg" width="40"><img src="axd.svg" width="40">
 </p>
 <h1></h1>
 
-<h1>Contact Me | <img src="gantung.gif" width=50></h1>
+<h1>Contact Me | <img src="nuq.gif" width=50></h1>
 <p>
   <a href="https://linktr.ee/qhofzn"><img src="link.svg" width="40px"><br/>Link Tree</a>
 </p>
