@@ -14,13 +14,6 @@
 <br/>
 <br/>
 
-<div align = "center">
-  <img src="sunset.gif" width = 1000>
-</div>
-
-<br/>
-<br/>
-
 <h1></h1>
 <h1>My Tools | <img src="ya1.gif" width=50></h1>
 <p>
