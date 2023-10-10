@@ -1,9 +1,8 @@
 # Qhof
 <div align="center">
-  <h1>Hi there, I'm <a href='https://www.instagram.com/zennmhtr/'>Zaini Muhtarom</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"><br/>~ Students University ~</h1>
+  <h1><img src="cat.gif" width="50px" height="50px">Hello Guys!, I'm <a href='https://www.instagram.com/qhof.zn/'>Fauzhan Qhof Pratama</a><img src="cat.gif" width="50px" height="50px"><br/>~ Ui/Ux Designer & Poster Design ~</h1>
   <h3>🏠 Kab.Bekasi - Jawa Barat, Indonesia</h3>
 </div>
-
 
 <br/>
 <br/>
