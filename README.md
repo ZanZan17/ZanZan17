@@ -8,7 +8,7 @@
 <br/>
 
 <div align = "center">
-  <img src="BlueArchive.gif" width = 1000>
+  <img src="porter.gif" width = 700>
 </div>
 
 <br/>
