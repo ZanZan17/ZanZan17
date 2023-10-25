@@ -39,5 +39,5 @@
 <br/>
 
 <div align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ZanZan17&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZanZan17&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </div>
